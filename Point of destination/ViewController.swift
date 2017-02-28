@@ -3,8 +3,9 @@
 //  Point of destination
 //
 //  Created by Marcel Mohren on 28-02-17.
-//  Copyright © 2017 MJJ Mohren. All rights reserved.
-//
+//  Copyright © 2017 MJJ Mohren. All rights
+
+// Well let's see if we can reach the destination..
 
 import UIKit
 
